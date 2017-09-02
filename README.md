@@ -1,2 +1,3 @@
 # tslint-rules
-🐶 tslint rules of my open source project
+
+🐶 All the tslint rules of my open source projects
