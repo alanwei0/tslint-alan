@@ -1,6 +1,6 @@
 {
   "name": "tslint-alan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "all my tslint rules of open source projects",
   "main": "tslint-alan.json",
   "scripts": {
