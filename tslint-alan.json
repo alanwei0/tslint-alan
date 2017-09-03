@@ -2,6 +2,6 @@
   "extends": ["tslint:recommended"],
   "rules": {
     "arrow-parens": false,
-    "quotemark": ["single", "jsx-double", "avoid-escape"]
+    "quotemark": [true, "single", "jsx-double", "avoid-escape"]
   }
 }
